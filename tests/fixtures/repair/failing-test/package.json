@@ -1,0 +1,4 @@
+{
+  "name": "failing-test-fixture",
+  "scripts": {"test": "node check.mjs"}
+}

@@ -1,0 +1,4 @@
+{
+  "name": "mnf-fixture",
+  "scripts": {"build": "node build.mjs"}
+}

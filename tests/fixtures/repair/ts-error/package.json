@@ -1,0 +1,4 @@
+{
+  "name": "ts-error-fixture",
+  "scripts": {"typecheck": "tsc --noEmit"}
+}
