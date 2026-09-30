@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "description": "Open-source, local-first AI coding agent. Use any model, see every action, and keep your code under your rules.",
   "displayName": "ApeironCode",
-  "homepage": "https://github.com/poolanithinreddy/ApeironCode#readme",
+  "homepage": "https://github.com/Adityavasanth18/ApeironCode#readme",
   "bugs": {
-    "url": "https://github.com/poolanithinreddy/ApeironCode/issues"
+    ""url": "https://github.com/Adityavasanth18/ApeironCode/issues"
   },
   "type": "module",
   "license": "MIT",
@@ -146,7 +146,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/poolanithinreddy/ApeironCode.git"
+    "url": "git+https://github.com/Adityavasanth18/ApeironCode.git"
   },
   "dependencies": {
     "aws4": "^1.13.2",
