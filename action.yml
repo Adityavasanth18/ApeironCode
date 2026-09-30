@@ -1,6 +1,6 @@
 name: 'ApeironCode Action'
 description: 'Review pull requests and inspect CI failures with ApeironCode (dry-run by default).'
-author: 'poolanithinreddy'
+author: 'Aditya Devarakonda'
 inputs:
   provider:
     description: 'Provider to use (e.g. anthropic, openai, ollama).'
