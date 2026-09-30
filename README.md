@@ -6,7 +6,7 @@ Open-source, local-first AI coding agent for developers who want control.
 
 ![ApeironCode fixes a failing test with approval-gated edits](./docs/assets/apeironcode-demo.gif)
 
-[![CI](https://github.com/poolanithinreddy/ApeironCode/actions/workflows/ci.yml/badge.svg)](https://github.com/poolanithinreddy/ApeironCode/actions/workflows/ci.yml)
+[![CI](https://github.com/Adityavasanth18/ApeironCode/actions/workflows/ci.yml/badge.svg)](https://github.com/Adityavasanth18/ApeironCode/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![Node.js 18+](https://img.shields.io/badge/node-%3E%3D18-339933?logo=node.js&logoColor=white)](./package.json)
 
@@ -19,7 +19,7 @@ The package and one-line installer are not published yet. Install the current
 alpha from source:
 
 ```bash
-git clone https://github.com/poolanithinreddy/ApeironCode.git
+git clone https://github.com/Adityavasanth18/ApeironCode.git
 cd ApeironCode
 npm ci
 npm run build
@@ -176,7 +176,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: poolanithinreddy/ApeironCode@v0.1.0
+      - uses: Adityavasanth18/ApeironCode@v0.1.0
         with:
           mode: pr-review
           dry_run: true
